@@ -16,6 +16,10 @@ CSS
 
 HTML
 
+## Access the Site
+
+https://lealdias.github.io/weather_web_application/
+
 ## Output
 
 ![image](https://github.com/LealDias/weather_web_application/assets/70763447/a3701e5a-d3ec-4679-be28-611f0a60d568)
